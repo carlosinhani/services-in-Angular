@@ -1,3 +1,24 @@
+# CURSO DE ANGULAR <img src="" width=60 height=40>
+
+-----------------------------------------------------------------------------------------------
+
+**PLATAFORMAS:** [<img src="https://img.shields.io/badge/Workover-F6C915?style=for-the-badge">](https://alunos.workover.com.br/)
+<br>
+
+**PLATAFORMAS:** [<img src="https://img.shields.io/badge/loiane.training-DD0031?style=for-the-badge&logo=angular&logoColor=white">](https://loiane.training/dashboard) 
+<br>
+-----------------------------------------------------------------------------------------------
+
+**PROFESSORA:** **_Loiane_**
+<br>
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/loiane) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/loiane/)
+<br>
+
+-----------------------------------------------------------------------------------------------
+
+**Desenvolvido:** **_Carlos Rodrigo_**
+
+
 # Servicos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
