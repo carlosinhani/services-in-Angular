@@ -2,10 +2,10 @@
 
 -----------------------------------------------------------------------------------------------
 
-**PLATAFORMAS:** [<img src="https://img.shields.io/badge/Workover-F6C915?style=for-the-badge">](https://alunos.workover.com.br/)
+### PLATAFORMAS: [<img src="https://img.shields.io/badge/Workover-F6C915?style=for-the-badge">](https://alunos.workover.com.br/)
 <br>
 
-**PLATAFORMAS:** [<img src="https://img.shields.io/badge/loiane.training-DD0031?style=for-the-badge&logo=angular&logoColor=white">](https://loiane.training/dashboard) 
+### PLATAFORMAS: [<img src="https://img.shields.io/badge/loiane.training-DD0031?style=for-the-badge&logo=angular&logoColor=white">](https://loiane.training/dashboard) 
 <br>
 -----------------------------------------------------------------------------------------------
 
